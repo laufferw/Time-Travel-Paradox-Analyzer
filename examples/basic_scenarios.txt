@@ -1,0 +1,59 @@
+==== SCENARIO 1: GRANDFATHER PARADOX ====
+A time traveler goes back in time and prevents their grandfather from meeting their grandmother. 
+This would prevent the time traveler's parent from being born, which in turn would prevent the time traveler from being born.
+If the time traveler was never born, they could not go back in time to prevent their grandparents from meeting.
+Questions to analyze:
+- Would the time traveler cease to exist immediately?
+- Would this create an alternate timeline?
+- Could this form a stable time loop where the universe "resets"?
+
+==== SCENARIO 2: BOOTSTRAP PARADOX ====
+A physicist receives plans for a time machine from an elderly visitor. The physicist builds the machine,
+and when they're old, travels back in time to give the plans to their younger self.
+Questions to analyze:
+- Where did the plans originally come from?
+- Is this a stable causal loop?
+- What happens to information/entropy in this scenario?
+
+==== SCENARIO 3: PREDESTINATION PARADOX ====
+A detective is trying to catch a criminal. They receive a tip from the future about where the criminal will be.
+They go there and in the ensuing chaos, accidentally create the very situation that causes the criminal activity
+they were trying to prevent.
+Questions to analyze:
+- Was the event inevitable?
+- Do the detective's actions create a deterministic loop?
+- Is there any way to break the cycle?
+
+==== SCENARIO 4: MULTIPLE TIMELINES SCENARIO ====
+A scientist creates a time machine and travels back one day to meet themselves.
+Now there are two versions of the scientist coexisting.
+Questions to analyze:
+- What happens if one version dies?
+- How would this affect the timeline moving forward?
+- Would this create infinite copies if repeated?
+
+==== SCENARIO 5: INFORMATION PARADOX ====
+A student is struggling with a difficult math problem. Their future self travels back in time
+and gives them the solution. The student grows up, and eventually travels back to give their
+younger self the same solution.
+Questions to analyze:
+- Where did the solution originally come from?
+- Is this different from the bootstrap paradox?
+- How does this affect creative development and learning?
+
+==== SCENARIO 6: CHANGING THE PAST ====
+A person travels back in time to prevent a major disaster that killed thousands.
+They succeed, creating a new timeline where those people lived.
+Questions to analyze:
+- What happens to the original timeline?
+- Do the people in the new timeline have free will or are they following a predetermined path?
+- What would happen if the time traveler tried to return to their "present"?
+
+==== SCENARIO 7: MEETING YOUR FUTURE SELF ====
+A person meets an older version of themselves who gives them specific instructions about life choices.
+The person follows these instructions which leads them to eventually become the older self who goes back in time.
+Questions to analyze:
+- Is this person's life now deterministic?
+- What happens if they choose to break the cycle?
+- Can free will exist in this scenario?
+
