@@ -97,5 +97,5 @@ the very incident they were trying to prevent.
 
 ## Technical Details
 
-- Built with Python, Gradio, and OpenA
+- Built with Python, Gradio, and OpenAI
 
